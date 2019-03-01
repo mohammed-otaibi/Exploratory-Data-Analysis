@@ -1,0 +1,19 @@
+1-  https://stackoverflow.com/questions/2547402/is-there-a-built-in-function-for-finding-the-mode
+
+2-
+https://www.statisticshowto.datasciencecentral.com/what-is-a-bimodal-distribution/
+
+3-
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+
+4-
+ https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt 
+
+5-
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/skewed-distribution/
+
+6-
+*http://blog.minitab.com/blog/understanding-statistics/understanding-qualitative-quantitative-attribute-discrete-and-continuous-data-types
+
+**http://www.usablestats.com/lessons/datatypes2
+
