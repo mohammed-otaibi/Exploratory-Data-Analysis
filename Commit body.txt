@@ -1,0 +1,7 @@
+Type: docs
+
+Adding and modifying commit
+I make a new commit to insert a comment, and this file commit body to save the comment, for this repository.
+
+
+By: Mohammed Zaiyd mohammed16236@github.com
